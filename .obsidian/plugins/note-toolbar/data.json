@@ -1,0 +1,41 @@
+{
+  "debugEnabled": false,
+  "emptyViewToolbar": null,
+  "export": {
+    "includeIcons": true,
+    "replaceVars": true,
+    "useDataEls": true,
+    "useIds": true
+  },
+  "folderMappings": [],
+  "icon": "circle-ellipsis",
+  "onboarding": {},
+  "recentFiles": [
+    "cs61a/notes/迭代和递归.png",
+    "cs61a/textbook：composing programs/2.3 Sequences.md",
+    "cs61a/notes/Untitled.md",
+    "cs61a/PPT/image.png",
+    "cs61a/textbook：composing programs/Notes Of Composing Programs.md",
+    "README.md",
+    "cs61a/notes/Entrance.md",
+    "cs61a/notes/ppt_summary.md",
+    "cs61a/notes/textbook_summary.md",
+    "cs61a/notes/README.md"
+  ],
+  "ribbonAction": "toolbar",
+  "scriptingEnabled": false,
+  "showEditInFabMenu": false,
+  "showToolbarIn": {
+    "audio": false,
+    "canvas": false,
+    "image": false,
+    "kanban": false,
+    "pdf": false,
+    "video": false
+  },
+  "showToolbarInFileMenu": false,
+  "toolbarProp": "notetoolbar",
+  "toolbars": [],
+  "version": 20250313.1,
+  "whatsnew_version": "0"
+}
