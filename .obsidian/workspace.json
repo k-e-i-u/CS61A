@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9d0e745349891466",
+        "id": "07021d911f712e6d",
         "type": "tabs",
         "children": [
           {
-            "id": "01dea179ba3a51f0",
+            "id": "171eeafd4ca52157",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notes/selfStudy_note.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "selfStudy_note"
             }
           }
         ]
@@ -137,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cs61a/notes/README.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,8 +192,16 @@
       "mxmind:Mxmind": false
     }
   },
-  "active": "01dea179ba3a51f0",
+  "active": "171eeafd4ca52157",
   "lastOpenFiles": [
+    "notes/todos/textbook_summary.md",
+    "notes/selfStudy_note.md",
+    "notes/todos/README.md",
+    "notes/todos/ppt_summary.md",
+    "notes/ppt_note.md",
+    "notes/todos/EEEE.md",
+    "notes/todos/迭代和递归.png",
+    "README.md",
     "cs61a/notes/README.md",
     "cs61a/README.md",
     "cs61a/notes/EEEE.md",
@@ -206,7 +218,6 @@
     "cs61a/resources/project/sicp-proj03/solution/assets/tiles/ground/3.png",
     "cs61a/resources/project/sicp-proj03/solution/assets/tiles/ground/1.png",
     "cs61a/resources/project/sicp-proj03/ants/assets/tiles/sky/3.png",
-    "cs61a/resources/project/sicp-proj03/ants/assets/tiles/sky/2.png",
     "cs61a/resources/project/sicp-proj01/hog/gui_files/static/js/runtime-main.71e877b4.js",
     "cs61a/resources/project/sicp-proj01/hog/gui_files/static/js/main.65d320cb.chunk.js",
     "cs61a/resources/project/sicp-proj01/hog/gui_files/static/js/runtime-main.53f79363.js",
@@ -229,13 +240,6 @@
     "cs61a/resources/lab/sicp-lab07/README.md",
     "cs61a/resources/lab/sicp-lab10/README.md",
     "cs61a/resources/lab/sicp-lab08/README.md",
-    "cs61a/resources/lab/sicp-lab09/README.md",
-    "cs61a/resources/lab/sicp-lab06/README.md",
-    "cs61a/resources/lab/sicp-lab05/README.md",
-    "cs61a/resources/lab/sicp-lab01/README.md",
-    "cs61a/resources/lab/sicp-lab01/Debug.md",
-    "cs61a/resources/lab/sicp-lab03/README.md",
-    "cs61a/resources/lab/sicp-lab04/README.md",
     "Untitled.canvas"
   ]
 }

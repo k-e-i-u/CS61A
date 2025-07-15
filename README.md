@@ -25,3 +25,10 @@
 ## 资源汇总
 
 @PKUFlyingPig 在学习这门课中用到的所有资源和作业实现都汇总在 [PKUFlyingPig/CS61A - GitHub](https://github.com/PKUFlyingPig/CS61A) 中。
+
+
+## Learning path
+
+textbook > ppt  > homework  >  lab  >  project.
+
+

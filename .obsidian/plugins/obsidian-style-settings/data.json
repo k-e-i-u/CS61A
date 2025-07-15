@@ -3,5 +3,6 @@
   "catppuccin-heading-settings@@ctp-h3": "var(--ctp-green)",
   "catppuccin-heading-settings@@ctp-h4": "var(--ctp-teal)",
   "catppuccin-heading-settings@@ctp-h5": "var(--ctp-subtext0)",
-  "catppuccin-heading-settings@@ctp-h6": "var(--ctp-teal)"
+  "catppuccin-heading-settings@@ctp-h6": "var(--ctp-teal)",
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-bt-default"
 }
