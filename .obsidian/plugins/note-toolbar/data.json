@@ -11,16 +11,16 @@
   "icon": "circle-ellipsis",
   "onboarding": {},
   "recentFiles": [
-    "README.md",
-    "notes/todos/迭代和递归.png",
-    "notes/Untitled.md",
     "notes/textbook_note.md",
     "notes/todos/EEEE.md",
     "notes/ppt_note.md",
     "notes/todos/ppt_summary.md",
     "notes/todos/README.md",
     "notes/todos/textbook_summary.md",
-    "notes/selfStudy_note.md"
+    "notes/selfStudy_note.md",
+    "textbook/2.3 Sequences.md",
+    "textbook/1.1   Getting Started.pdf",
+    "textbook/1.1 Getting Started.md"
   ],
   "ribbonAction": "toolbar",
   "scriptingEnabled": false,
